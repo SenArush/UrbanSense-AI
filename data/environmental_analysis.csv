@@ -1,0 +1,6 @@
+City,Temperature,AQI,Noise_Level,Air_Quality_Status
+Lucknow,32,120,65,Poor
+Delhi,38,180,78,Poor
+Mumbai,31,95,70,Moderate
+Kolkata,34,150,75,Poor
+Chennai,33,110,68,Poor
